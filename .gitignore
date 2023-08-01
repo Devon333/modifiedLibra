@@ -1,0 +1,11 @@
+_*.txt
+tmp
+*.pyc
+*.png
+*.bin
+_build*
+*.xyz
+*.out
+*.cube
+Ham_vib_*
+*.exe
